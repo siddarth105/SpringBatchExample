@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:employee xmlns:ns2="SpecEmpDetail" xmlns:ns3="EmpDetails">
+<EmpDetails>
+    <SpecEmpDetail id="1001">
+        <name>Sid</name>
+        <gender>male</gender>
+        <designation>P3</designation>
+        <salary>10000</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>perm</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1002">
+        <name>Akash</name>
+        <gender>male</gender>
+        <designation>P3</designation>
+        <salary>10001</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>temp</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1003">
+        <name>Shruthi</name>
+        <gender>female</gender>
+        <designation>P3</designation>
+        <salary>10002</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>perm</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1004">
+        <name>Arun</name>
+        <gender>male</gender>
+        <designation>P3</designation>
+        <salary>10003</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>perm</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1005">
+        <name>Mathew</name>
+        <gender>male</gender>
+        <designation>P3</designation>
+        <salary>10004</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>perm</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1006">
+        <name>Anu</name>
+        <gender>female</gender>
+        <designation>P3</designation>
+        <salary>10005</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>temp</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1007">
+        <name>Britto</name>
+        <gender>male</gender>
+        <designation>P3</designation>
+        <salary>10006</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>perm</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1008">
+        <name>SharuKhan</name>
+        <gender>male</gender>
+        <designation>P3</designation>
+        <salary>10007</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>perm</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1009">
+        <name>Spoorthi</name>
+        <gender>female</gender>
+        <designation>P3</designation>
+        <salary>10008</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>perm</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1010">
+        <name>Salman</name>
+        <gender>male</gender>
+        <designation>P3</designation>
+        <salary>10009</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>temp</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1011">
+        <name>Kamal</name>
+        <gender>male</gender>
+        <designation>P3</designation>
+        <salary>10010</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>perm</type>
+    </SpecEmpDetail>
+    <SpecEmpDetail id="1012">
+        <name>Divya</name>
+        <gender>female</gender>
+        <designation>P3</designation>
+        <salary>10011</salary>
+        <age>25</age>
+        <dob>1989-11-09T00:00:00+05:30</dob>
+        <type>perm</type>
+    </SpecEmpDetail>
+</EmpDetails>
+</ns3:employee>
